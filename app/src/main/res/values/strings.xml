@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome">Nitwit! Blubber! Oddment! Tweak! Let the magical quiz.. begin!</string>
+    <string name="question_one">1) Which students belongs to Ravenclaw House?</string>
+    <string name="question_one_a">A) Luna Lovegood</string>
+    <string name="question_one_b">B) Lavendar Brown</string>
+    <string name="question_one_c">C) Anthony Goldstein</string>
+    <string name="question_one_d">D) Draco Malfoy</string>
+    <string name="question_one_e">E) Tom Marvolo Riddle</string>
+    <string name="question_two">2) Who teaches Divination?</string>
+    <string name="question_two_a">A) Professor Mcgonagall</string>
+    <string name="question_two_b">B) Professor Trelawney</string>
+    <string name="question_two_c">C) Firenze</string>
+    <string name="question_two_d">D) Hagrid</string>
+    <string name="question_two_e">E) Professor Umbridge</string>
+    <string name="question_three">3) What Hogwarts House is Harry Potter in?</string>
+    <string name="question_three_a">A) Slytherin</string>
+    <string name="question_three_b">B) Hufflepuff</string>
+    <string name="question_three_c">C) Gryffindor</string>
+    <string name="question_three_d">D) Jigglypuff</string>
+    <string name="question_three_e">E) Ravenclaw</string>
+    <string name="question_four">4) Who are Harry Potter\'s best friends?</string>
+    <string name="question_four_a">A) Ron and Luna</string>
+    <string name="question_four_b">B) Ginny and Hermione</string>
+    <string name="question_four_c">C) Ron and Hermione</string>
+    <string name="question_four_d">D) Neville and Dean</string>
+    <string name="question_four_e">E) Dean and Seamus</string>
+    <string name="question_five">5) List all of the Horcruxes in the order of when they were destroyed. Put a single space between answers.</string>
+    <string name="question_five_hint">List Horcruxes here</string>
+    <string name="submit_button">Revelio! (For muggles: submit)</string>
+    <string name="score_five_toast">5/5: Outstanding! Looks like you\'re a prefect who knows their stuff!</string>
+    <string name="score_four_toast">4/5: You\'ve Exceeded Expectations! Looks like you\'re passing your O.W.L.s with flying colours!</string>
+    <string name="score_three_toast">3/5: Yikes! Your work is Acceptable but it looks like you need to spend less time on the quidditch field and more time in the library!</string>
+    <string name="score_two_toast">2/5: Oh no! You\'ve done quite Poor! I think someone needs to seek Hermione out to get some tutoring!</string>
+    <string name="score_one_toast">1/5: Absolutely Dreadful! Looks like you forgot some answers there! It must be the Nargles!</string>
+    <string name="score_zero_toast">0/5: Troll</string>
+</resources>
